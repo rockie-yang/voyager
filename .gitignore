@@ -4,3 +4,6 @@ build
 node_modules
 coverage
 npm-debug.log
+.idea
+*.iml
+.DS_Store
